@@ -1,4 +1,4 @@
-Based off of Code Commerce's React JS Weather APP, left off at 26:02
+Based off of Code Commerce's React JS Weather APP https://www.youtube.com/watch?v=UjeXpct3p7M, left off at 26:02
 
 What is done right now:
 1. background
